@@ -483,7 +483,7 @@ const Home = () => {
           </div>
         ))}
         <h4>Total: ₹{getTotalPrice()}</h4>
-        <button onClick={shareOnWhatsApp}>Share on WhatsApp</button>
+        <button className="sow" onClick={shareOnWhatsApp}>Share on WhatsApp</button>
       </div>
 
       {/* Footer Section */}
