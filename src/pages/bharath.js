@@ -317,7 +317,7 @@ const categories = {
     { id: 289, name: "టైగర్ సుపారి (Tiger Supari)", image: "https://i.imgur.com/q1diD0J.jpg" },
     { id: 290, name: "దిల్దార్ సుపారి (Dildar Supari)", image: "https://i.imgur.com/O14lz7F.jpg" },
     { id: 291, name: "సోనీ సాంప్ (Sony Samp)", image: "https://i.imgur.com/ff0lOBN.jpg" },
-    { id: 292, name: "రావలి (Rawali)", image: "https://i.imgur.com/khpsk2R.jpg" },
+    { id: 292, name: "రవలి (Rawali)", image: "https://i.imgur.com/khpsk2R.jpg" },
     { id: 293, name: "Crane", image: "https://i.imgur.com/pc1jJuZ.jpg" },
     { id: 294, name: "బూమర్ (Boomer)", image: "https://i.imgur.com/MgD9Vmi.jpg" },
     { id: 295, name: "జస్ట్ జెల్లీ (Just Jelly)", image: "https://i.imgur.com/cZcaZhP.jpg" },
@@ -448,7 +448,7 @@ const Home = () => {
       </div>
     </div>
       </div>
-      {/* Ads Section */}
+      {/* Ads Sechhghghgjhtion */}
       <div className="ads-section">
         <marquee behavior="scroll" direction="left">
         మీ వ్యాపారాన్ని కూడా నచ్చిన విధంగా ఆన్‌లైన్ చేయండి. మరింత ఆదాయాన్ని పొందండి. మరిన్ని వివరాలకు ("Lucky Software Solutions") 7036783962 నంబర్‌ను సంప్రదించండి.
