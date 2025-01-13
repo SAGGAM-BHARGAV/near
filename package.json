@@ -1,8 +1,7 @@
 {
-  "name": "main",
+  "name": "near",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saggam-bhargav.github.io/near",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
